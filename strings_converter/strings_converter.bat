@@ -1,0 +1,1 @@
+python strings_convert.py || py -3 strings_convert.py
